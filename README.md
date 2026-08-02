@@ -8,7 +8,9 @@
 
 **Loom Demonstration:**  
 Watch the complete troubleshooting process here:  
-🔗 https://www.loom.com/share/1fa3b348796746b79a0b80cb2d80ec59## Objective
+🔗 https://www.loom.com/share/1fa3b348796746b79a0b80cb2d80ec59
+
+## Objective
 Resolve an office-wide printer outage affecting multiple floors by identifying the root cause, restoring printer connectivity, and verifying successful printing with the end user.
 
 ---
